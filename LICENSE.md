@@ -1,4 +1,4 @@
-# 
+# 1Password for macOS secure Addon: vulnerability-scanner & biometric-login offers the most advanced 1Password for macOS addon, with vulnerability-scanner and biometric-login. Ideal
 
 
 
